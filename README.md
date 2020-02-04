@@ -17,6 +17,7 @@ springboot-order-haircut 是后端代码项目
 
 
 该项目的域名可以访问
-www.gouptea.top
+www.gouptea.top 
+
 
 
